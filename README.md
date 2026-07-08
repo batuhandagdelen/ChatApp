@@ -4,6 +4,16 @@ Gerçek zamanlı mesajlaşma uygulaması. Firebase altyapısı üzerine inşa ed
 
 ---
 
+
+# 📷 Ekran Görüntüsü
+
+
+
+<img width="800" height="1529" alt="EkranKayd2026-07-0812 44 59-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a674f55f-5954-4d46-905a-0ff666f69f43" />
+
+
+
+
 ## 🛠️ Kullanılan Teknolojiler
 
 - **React Native** - Cross-platform mobil uygulama geliştirme
